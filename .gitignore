@@ -27,3 +27,12 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+sym-lib-table
+fp-lib-table
+
+.DS_Store
+footprints/.DS_Store
+footprints/Footprints.pretty/.DS_Store
+symbols/.DS_Store
+
