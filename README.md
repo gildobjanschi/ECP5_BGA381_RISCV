@@ -1,4 +1,4 @@
-# blue_whale_hw
+# Blue Whale Hardware
 ECP5 FPGA board
 
 ## Software
