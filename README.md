@@ -9,7 +9,7 @@ Checkout the KiCAD project and open it. In the Configure Paths dialog add: Name:
 
 In the Manage Symbol Libraries click the Project Specific Libraries tab and add: Name: ECP5_RISCV and Library Path: ${ECP5_RISCV}/symbols/Symbols.kicad_sym
 
-In the Manage Footprint Libraries click the Project Specific Libraries tab and add: Name: ECP5_RISCV and Library Path: ${ECP5_RISCV}/footprints/Footprints.kicad_sym
+In the Manage Footprint Libraries click the Project Specific Libraries tab and add: Name: ECP5_RISCV and Library Path: ${ECP5_RISCV}/footprints/Footprints.pretty
 
 ## Project Status
 The HW has been fully verified as part of the [RISC-V_micro](https://github.com/gildobjanschi/RISC-V_micro) project. An extension board was developed to test the extension interface. That extension is not published on Github.
