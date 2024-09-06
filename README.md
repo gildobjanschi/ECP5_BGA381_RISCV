@@ -1,5 +1,5 @@
 # Blue Whale Hardware
-ECP5 FPGA board
+ECP5 FPGA board for developing a RISCV processor.
 
 ## Software
 The ECP5 FPGA board was developed to enable the development of a RISCV processor and allow for for an extension connector. See the [RISCV_PROCESSOR](https://github.com/gildobjanschi/RISCV_PROCESSOR) project for detailed explanation of the Verilog code developed for this board.
