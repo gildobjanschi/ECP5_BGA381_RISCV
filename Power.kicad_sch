@@ -571,7 +571,7 @@
 				)
 			)
 		)
-		(symbol "ECP5_RISCV:LFE5U-85F-6BG381x"
+		(symbol "ECP5_BGA381_RISCV:LFE5U-85F-6BG381x"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -16166,7 +16166,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ECP5_RISCV:LFE5U-85F-6BG381x")
+		(lib_id "ECP5_BGA381_RISCV:LFE5U-85F-6BG381x")
 		(at 92.71 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16190,7 +16190,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECP5_RISCV:BGA-381_pitch0.8mm_dia0.4mm"
+		(property "Footprint" "ECP5_BGA381_RISCV:BGA-381_pitch0.8mm_dia0.4mm"
 			(at 88.9 -49.53 0)
 			(effects
 				(font

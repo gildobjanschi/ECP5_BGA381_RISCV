@@ -765,7 +765,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "0fe7b330-ac8f-4c39-b3c5-253a8cc1f7f0")
 	)
-	(model "${ECP5_RISCV}/3dmodels/FTS-120-02-L-DV.stp"
+	(model "${ECP5_BGA381_RISCV}/3dmodels/FTS-120-02-L-DV.stp"
 		(offset
 			(xyz 0 0 0.5)
 		)

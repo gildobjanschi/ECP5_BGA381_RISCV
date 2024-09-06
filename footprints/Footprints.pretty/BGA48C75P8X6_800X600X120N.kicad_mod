@@ -556,7 +556,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "43b2472a-7fc2-4393-8ca5-66604176d2f7")
 	)
-	(model "${ECP5_RISCV}/3dmodels/IS66WVE4M16EBLL-70BLI.STEP"
+	(model "${ECP5_BGA381_RISCV}/3dmodels/IS66WVE4M16EBLL-70BLI.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -61,10 +61,10 @@
       ],
       "drc_exclusions": [
         "footprint_type_mismatch|172750000|100600000|3d49748f-cc86-46b8-aa06-3f4db1de06e0|00000000-0000-0000-0000-000000000000",
-        "hole_clearance|169645000|103500000|f5310b60-c1e6-40e0-b19c-71f66cdf6326|1ac6d172-9924-4c07-909e-9624c265d60b",
-        "hole_clearance|169645000|103500000|f5310b60-c1e6-40e0-b19c-71f66cdf6326|9b54b910-a2d4-4452-b8d0-3654436d43d7",
-        "hole_clearance|169645000|97700000|d3c42c3b-dc1f-4d66-9e56-261c8df07fac|94db97f9-38a5-4c81-bb7d-4d39ecab6ebb",
-        "hole_clearance|169645000|97700000|d3c42c3b-dc1f-4d66-9e56-261c8df07fac|a4d3cca5-2354-457c-9759-44b9f5cebd83",
+        "hole_clearance|169645000|103500000|d0ebc8a1-0154-4143-a28f-38162d15691b|57f4c294-cc68-4ecf-96a0-61dc2d6d9702",
+        "hole_clearance|169645000|103500000|d0ebc8a1-0154-4143-a28f-38162d15691b|bfe6022d-7d01-40d7-acf1-9e1182065678",
+        "hole_clearance|169645000|97700000|3586a90b-8b75-4b97-89dd-351e5003a23d|11c88f70-fc3d-474d-af2f-83e8078387ff",
+        "hole_clearance|169645000|97700000|3586a90b-8b75-4b97-89dd-351e5003a23d|fa0ff747-ce66-4ae2-8abf-28fb0ae7d629",
         "text_thickness|128400000|78350000|45fe6be3-8fc4-44a3-a09a-dd7c18a5e2aa|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
@@ -462,10 +462,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "ECP5_RISCV"
+      "ECP5_RISCV",
+      "ECP5_BGA381_RISCV"
     ],
     "pinned_symbol_libs": [
-      "ECP5_RISCV"
+      "ECP5_RISCV",
+      "ECP5_BGA381_RISCV"
     ]
   },
   "meta": {
@@ -771,9 +773,21 @@
         },
         {
           "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -797,18 +811,6 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MPN",
-          "name": "MPN",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Manufacturer",
-          "name": "Manufacturer",
           "show": false
         },
         {

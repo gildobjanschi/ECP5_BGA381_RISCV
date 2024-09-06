@@ -1203,7 +1203,7 @@
 				)
 			)
 		)
-		(symbol "ECP5_RISCV:25LCxxx"
+		(symbol "ECP5_BGA381_RISCV:25LCxxx"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1464,7 +1464,7 @@
 				)
 			)
 		)
-		(symbol "ECP5_RISCV:FT231XQ"
+		(symbol "ECP5_BGA381_RISCV:FT231XQ"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1925,7 +1925,7 @@
 				)
 			)
 		)
-		(symbol "ECP5_RISCV:LFE5U-85F-6BG381x"
+		(symbol "ECP5_BGA381_RISCV:LFE5U-85F-6BG381x"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -9053,7 +9053,7 @@
 				)
 			)
 		)
-		(symbol "ECP5_RISCV:USB_C_Receptacle_USB2.0"
+		(symbol "ECP5_BGA381_RISCV:USB_C_Receptacle_USB2.0"
 			(pin_names
 				(offset 1.016)
 			)
@@ -13903,7 +13903,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ECP5_RISCV:FT231XQ")
+		(lib_id "ECP5_BGA381_RISCV:FT231XQ")
 		(at 101.6 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14757,7 +14757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECP5_RISCV:Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm"
+		(property "Footprint" "ECP5_BGA381_RISCV:Oscillator_SMD_Diodes_FN-4Pin_7.0x5.0mm"
 			(at 256.54 133.35 0)
 			(effects
 				(font
@@ -14960,7 +14960,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ECP5_RISCV:USB_C_Receptacle_USB2.0")
+		(lib_id "ECP5_BGA381_RISCV:USB_C_Receptacle_USB2.0")
 		(at 34.29 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14985,7 +14985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECP5_RISCV:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+		(property "Footprint" "ECP5_BGA381_RISCV:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 38.1 132.08 0)
 			(effects
 				(font
@@ -15168,7 +15168,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ECP5_RISCV:LFE5U-85F-6BG381x")
+		(lib_id "ECP5_BGA381_RISCV:LFE5U-85F-6BG381x")
 		(at 135.89 45.72 0)
 		(unit 8)
 		(exclude_from_sim no)
@@ -15192,7 +15192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECP5_RISCV:BGA-381_pitch0.8mm_dia0.4mm"
+		(property "Footprint" "ECP5_BGA381_RISCV:BGA-381_pitch0.8mm_dia0.4mm"
 			(at 132.08 -111.76 0)
 			(effects
 				(font
@@ -17157,7 +17157,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ECP5_RISCV:LFE5U-85F-6BG381x")
+		(lib_id "ECP5_BGA381_RISCV:LFE5U-85F-6BG381x")
 		(at 240.03 64.77 0)
 		(unit 3)
 		(exclude_from_sim no)
@@ -17183,7 +17183,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ECP5_RISCV:BGA-381_pitch0.8mm_dia0.4mm"
+		(property "Footprint" "ECP5_BGA381_RISCV:BGA-381_pitch0.8mm_dia0.4mm"
 			(at 236.22 -92.71 0)
 			(effects
 				(font
@@ -20667,7 +20667,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ECP5_RISCV:25LCxxx")
+		(lib_id "ECP5_BGA381_RISCV:25LCxxx")
 		(at 41.91 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20693,7 +20693,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ECP5_RISCV:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm"
+		(property "Footprint" "ECP5_BGA381_RISCV:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm"
 			(at 41.91 71.12 0)
 			(effects
 				(font
@@ -20840,7 +20840,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ECP5_RISCV:LFE5U-85F-6BG381x")
+		(lib_id "ECP5_BGA381_RISCV:LFE5U-85F-6BG381x")
 		(at 279.4 64.77 0)
 		(unit 6)
 		(exclude_from_sim no)
@@ -20866,7 +20866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ECP5_RISCV:BGA-381_pitch0.8mm_dia0.4mm"
+		(property "Footprint" "ECP5_BGA381_RISCV:BGA-381_pitch0.8mm_dia0.4mm"
 			(at 275.59 -92.71 0)
 			(effects
 				(font
@@ -23342,7 +23342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECP5_RISCV:Fuse_1812_4532Metric"
+		(property "Footprint" "ECP5_BGA381_RISCV:Fuse_1812_4532Metric"
 			(at 55.88 118.11 0)
 			(effects
 				(font
@@ -24681,7 +24681,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ECP5_RISCV:LFE5U-85F-6BG381x")
+		(lib_id "ECP5_BGA381_RISCV:LFE5U-85F-6BG381x")
 		(at 175.26 113.03 0)
 		(mirror y)
 		(unit 9)
@@ -24708,7 +24708,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ECP5_RISCV:BGA-381_pitch0.8mm_dia0.4mm"
+		(property "Footprint" "ECP5_BGA381_RISCV:BGA-381_pitch0.8mm_dia0.4mm"
 			(at 179.07 -44.45 0)
 			(effects
 				(font
