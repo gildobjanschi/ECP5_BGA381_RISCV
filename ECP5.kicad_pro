@@ -463,11 +463,13 @@
   "libraries": {
     "pinned_footprint_libs": [
       "ECP5_RISCV",
-      "ECP5_BGA381_RISCV"
+      "ECP5_BGA381_RISCV",
+      "KICAD_GIL_LIBRARY"
     ],
     "pinned_symbol_libs": [
       "ECP5_RISCV",
-      "ECP5_BGA381_RISCV"
+      "ECP5_BGA381_RISCV",
+      "Gil"
     ]
   },
   "meta": {
