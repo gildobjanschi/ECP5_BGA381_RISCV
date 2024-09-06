@@ -14,4 +14,6 @@ In the Manage Footprint Libraries click the Project Specific Libraries tab and a
 ## Project Status
 The HW has been fully verified as part of the [RISCV_PROCESSOR](https://github.com/gildobjanschi/RISCV_PROCESSOR) project. An extension board was developed to test the extension interface. That extension is not published on Github.
 
+[Schematic PDF](https://github.com/gildobjanschi/ECP5_BGA381_RISCV/blob/main/kicad/ECP5_board.pdf)
+
 ![Blue Whale 3D view](https://github.com/gildobjanschi/ECP5_BGA381_RISCV/blob/main/ECP5.png)
