@@ -7,7 +7,7 @@ The ECP5 FPGA board was developed to enable the development of a RISCV processor
 ## Project Status
 The HW has been fully verified as part of the [RISCV_PROCESSOR](https://github.com/gildobjanschi/RISCV_PROCESSOR) project. An [extension board](https://github.com/gildobjanschi/ECP5_BGA381_RISCV_EXT)  was developed to test the extension interface. 
 
-[Schematic PDF](https://github.com/gildobjanschi/ECP5_BGA381_RISCV/blob/main/ECP5_board.pdf)
+[<img src="Schematics_preview_RISCV.png">](https://ECP5_BGA381_RISCV/blob/main/ECP5_board.pdf)
 
 ![Blue Whale 3D view](https://github.com/gildobjanschi/ECP5_BGA381_RISCV/blob/main/ECP5.png)
 
